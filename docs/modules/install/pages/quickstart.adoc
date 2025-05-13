@@ -76,7 +76,7 @@ guide] for more help.
 Debian::
 +
 ====
-On clusters deployed with RPM packages from {debian}[Debian community], install
+On clusters deployed with Deb packages from {debian}[Debian community], install
 `slurmrestd` with this command:
 
 [source,console]
